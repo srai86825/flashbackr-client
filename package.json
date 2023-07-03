@@ -25,6 +25,9 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
+  "engines": {
+  "node": "18.16.1"
+  },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
